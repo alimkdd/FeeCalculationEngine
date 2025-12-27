@@ -1,0 +1,293 @@
+[
+  {
+    "UserId": 1,
+    "Amount": 1000.00,
+    "TransactionTypeId": 1,
+    "PaymentMethodId": 1,
+    "PromoCodeId": 1,
+    "CreatedAt": "2025-11-18T08:00:00Z"
+  },
+  {
+    "UserId": 1,
+    "Amount": 1100.00,
+    "TransactionTypeId": 1,
+    "PaymentMethodId": 1,
+    "PromoCodeId": 2,
+    "CreatedAt": "2025-11-18T08:00:00Z"
+  },
+  {
+    "UserId": 1,
+    "Amount": 1200.00,
+    "TransactionTypeId": 1,
+    "PaymentMethodId": 1,
+    "PromoCodeId": 4,
+    "CreatedAt": "2025-11-18T08:00:00Z"
+  },
+  {
+    "UserId": 1,
+    "Amount": 1300.00,
+    "TransactionTypeId": 1,
+    "PaymentMethodId": 2,
+    "PromoCodeId": 1,
+    "CreatedAt": "2025-11-18T08:00:00Z"
+  },
+  {
+    "UserId": 1,
+    "Amount": 1400.00,
+    "TransactionTypeId": 1,
+    "PaymentMethodId": 2,
+    "PromoCodeId": 2,
+    "CreatedAt": "2025-11-18T08:00:00Z"
+  },
+  {
+    "UserId": 1,
+    "Amount": 1500.00,
+    "TransactionTypeId": 1,
+    "PaymentMethodId": 2,
+    "PromoCodeId": 4,
+    "CreatedAt": "2025-11-18T08:00:00Z"
+  },
+  {
+    "UserId": 1,
+    "Amount": 1600.00,
+    "TransactionTypeId": 1,
+    "PaymentMethodId": 3,
+    "PromoCodeId": 1,
+    "CreatedAt": "2025-11-18T08:00:00Z"
+  },
+  {
+    "UserId": 1,
+    "Amount": 1700.00,
+    "TransactionTypeId": 1,
+    "PaymentMethodId": 3,
+    "PromoCodeId": 2,
+    "CreatedAt": "2025-11-18T08:00:00Z"
+  },
+  {
+    "UserId": 1,
+    "Amount": 1800.00,
+    "TransactionTypeId": 1,
+    "PaymentMethodId": 3,
+    "PromoCodeId": 4,
+    "CreatedAt": "2025-11-18T08:00:00Z"
+  },
+
+  {
+    "UserId": 2,
+    "Amount": 2000.00,
+    "TransactionTypeId": 2,
+    "PaymentMethodId": 1,
+    "PromoCodeId": 1,
+    "CreatedAt": "2025-11-18T08:00:00Z"
+  },
+  {
+    "UserId": 2,
+    "Amount": 2100.00,
+    "TransactionTypeId": 2,
+    "PaymentMethodId": 1,
+    "PromoCodeId": 2,
+    "CreatedAt": "2025-11-18T08:00:00Z"
+  },
+  {
+    "UserId": 2,
+    "Amount": 2200.00,
+    "TransactionTypeId": 2,
+    "PaymentMethodId": 1,
+    "PromoCodeId": 4,
+    "CreatedAt": "2025-11-18T08:00:00Z"
+  },
+  {
+    "UserId": 2,
+    "Amount": 2300.00,
+    "TransactionTypeId": 2,
+    "PaymentMethodId": 2,
+    "PromoCodeId": 1,
+    "CreatedAt": "2025-11-18T08:00:00Z"
+  },
+  {
+    "UserId": 2,
+    "Amount": 2400.00,
+    "TransactionTypeId": 2,
+    "PaymentMethodId": 2,
+    "PromoCodeId": 2,
+    "CreatedAt": "2025-11-18T08:00:00Z"
+  },
+  {
+    "UserId": 2,
+    "Amount": 2500.00,
+    "TransactionTypeId": 2,
+    "PaymentMethodId": 2,
+    "PromoCodeId": 4,
+    "CreatedAt": "2025-11-18T08:00:00Z"
+  },
+  {
+    "UserId": 2,
+    "Amount": 2600.00,
+    "TransactionTypeId": 2,
+    "PaymentMethodId": 3,
+    "PromoCodeId": 1,
+    "CreatedAt": "2025-11-18T08:00:00Z"
+  },
+  {
+    "UserId": 2,
+    "Amount": 2700.00,
+    "TransactionTypeId": 2,
+    "PaymentMethodId": 3,
+    "PromoCodeId": 2,
+    "CreatedAt": "2025-11-18T08:00:00Z"
+  },
+  {
+    "UserId": 2,
+    "Amount": 2800.00,
+    "TransactionTypeId": 2,
+    "PaymentMethodId": 3,
+    "PromoCodeId": 4,
+    "CreatedAt": "2025-11-18T08:00:00Z"
+  },
+
+  {
+    "UserId": 3,
+    "Amount": 3000.00,
+    "TransactionTypeId": 3,
+    "PaymentMethodId": 1,
+    "PromoCodeId": 1,
+    "CreatedAt": "2025-11-18T08:00:00Z"
+  },
+  {
+    "UserId": 3,
+    "Amount": 3100.00,
+    "TransactionTypeId": 3,
+    "PaymentMethodId": 1,
+    "PromoCodeId": 2,
+    "CreatedAt": "2025-11-18T08:00:00Z"
+  },
+  {
+    "UserId": 3,
+    "Amount": 3200.00,
+    "TransactionTypeId": 3,
+    "PaymentMethodId": 1,
+    "PromoCodeId": 4,
+    "CreatedAt": "2025-11-18T08:00:00Z"
+  },
+  {
+    "UserId": 3,
+    "Amount": 3300.00,
+    "TransactionTypeId": 3,
+    "PaymentMethodId": 2,
+    "PromoCodeId": 1,
+    "CreatedAt": "2025-11-18T08:00:00Z"
+  },
+  {
+    "UserId": 3,
+    "Amount": 3400.00,
+    "TransactionTypeId": 3,
+    "PaymentMethodId": 2,
+    "PromoCodeId": 2,
+    "CreatedAt": "2025-11-18T08:00:00Z"
+  },
+  {
+    "UserId": 3,
+    "Amount": 5000.00,
+    "TransactionTypeId": 3,
+    "PaymentMethodId": 2,
+    "PromoCodeId": 4,
+    "CreatedAt": "2025-11-18T08:00:00Z"
+  },
+  {
+    "UserId": 3,
+    "Amount": 6000.00,
+    "TransactionTypeId": 3,
+    "PaymentMethodId": 3,
+    "PromoCodeId": 1,
+    "CreatedAt": "2025-11-18T08:00:00Z"
+  },
+  {
+    "UserId": 3,
+    "Amount": 7000.00,
+    "TransactionTypeId": 3,
+    "PaymentMethodId": 3,
+    "PromoCodeId": 2,
+    "CreatedAt": "2025-11-18T08:00:00Z"
+  },
+  {
+    "UserId": 3,
+    "Amount": 8000.00,
+    "TransactionTypeId": 3,
+    "PaymentMethodId": 3,
+    "PromoCodeId": 4,
+    "CreatedAt": "2025-11-18T08:00:00Z"
+  },
+
+  {
+    "UserId": 4,
+    "Amount": 4000.00,
+    "TransactionTypeId": 4,
+    "PaymentMethodId": 1,
+    "PromoCodeId": 1,
+    "CreatedAt": "2025-11-18T08:00:00Z"
+  },
+  {
+    "UserId": 4,
+    "Amount": 4100.00,
+    "TransactionTypeId": 4,
+    "PaymentMethodId": 1,
+    "PromoCodeId": 2,
+    "CreatedAt": "2025-11-18T08:00:00Z"
+  },
+  {
+    "UserId": 4,
+    "Amount": 4200.00,
+    "TransactionTypeId": 4,
+    "PaymentMethodId": 1,
+    "PromoCodeId": 4,
+    "CreatedAt": "2025-11-18T08:00:00Z"
+  },
+  {
+    "UserId": 4,
+    "Amount": 4300.00,
+    "TransactionTypeId": 4,
+    "PaymentMethodId": 2,
+    "PromoCodeId": 1,
+    "CreatedAt": "2025-11-18T08:00:00Z"
+  },
+  {
+    "UserId": 4,
+    "Amount": 4400.00,
+    "TransactionTypeId": 4,
+    "PaymentMethodId": 2,
+    "PromoCodeId": 2,
+    "CreatedAt": "2025-11-18T08:00:00Z"
+  },
+  {
+    "UserId": 4,
+    "Amount": 4500.00,
+    "TransactionTypeId": 4,
+    "PaymentMethodId": 2,
+    "PromoCodeId": 4,
+    "CreatedAt": "2025-11-18T08:00:00Z"
+  },
+  {
+    "UserId": 4,
+    "Amount": 4600.00,
+    "TransactionTypeId": 4,
+    "PaymentMethodId": 3,
+    "PromoCodeId": 1,
+    "CreatedAt": "2025-11-18T08:00:00Z"
+  },
+  {
+    "UserId": 4,
+    "Amount": 4700.00,
+    "TransactionTypeId": 4,
+    "PaymentMethodId": 3,
+    "PromoCodeId": 2,
+    "CreatedAt": "2025-11-18T08:00:00Z"
+  },
+  {
+    "UserId": 4,
+    "Amount": 4800.00,
+    "TransactionTypeId": 4,
+    "PaymentMethodId": 3,
+    "PromoCodeId": 4,
+    "CreatedAt": "2025-11-18T08:00:00Z"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "ModifierName": "FirstTransactionFree",
+    "Priority": 1,
+    "CreatedAt": "2025-11-17T00:00:00Z"
+  },
+  {
+    "ModifierName": "PremiumUserDiscount",
+    "Priority": 2,
+    "CreatedAt": "2025-11-17T00:00:00Z"
+  },
+  {
+    "ModifierName": "HighVolumeDiscount",
+    "Priority": 3,
+    "CreatedAt": "2025-11-17T00:00:00Z"
+  },
+  {
+    "ModifierName": "PromoCodeDiscount",
+    "Priority": 4,
+    "CreatedAt": "2025-11-17T00:00:00Z"
+  },
+  {
+    "ModifierName": "WeekendOrHolidayFee",
+    "Priority": 5,
+    "CreatedAt": "2025-11-17T00:00:00Z"
+  }
+]

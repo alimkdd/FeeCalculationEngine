@@ -1,0 +1,14 @@
+[
+  {
+    "Name": "Bank",
+    "CreatedAt": "2025-11-17T00:00:00Z"
+  },
+  {
+    "Name": "Card",
+    "CreatedAt": "2025-11-17T00:00:00Z"
+  },
+  {
+    "Name": "ATM",
+    "CreatedAt": "2025-11-17T00:00:00Z"
+  }
+]

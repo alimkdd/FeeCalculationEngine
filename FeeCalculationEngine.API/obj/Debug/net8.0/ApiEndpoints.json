@@ -1,0 +1,74 @@
+[
+  {
+    "ContainingType": "FeeCalculationEngine.API.Controllers.FeesController",
+    "Method": "Calculate",
+    "RelativePath": "api/v1/Fees/Calculate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "FeeCalculationEngine.Application.Dtos.Requests.FeeCalculationRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "FeeCalculationEngine.Application.Dtos.Responses.FeeCalculationResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "FeeCalculationEngine.API.Controllers.FeesController",
+    "Method": "Preview",
+    "RelativePath": "api/v1/Fees/Preview",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "UserId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "TransactionTypeId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Amount",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      },
+      {
+        "Name": "PaymentMethodId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PromoCodeId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "FeeCalculationEngine.Application.Dtos.Responses.FeeCalculationResult",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

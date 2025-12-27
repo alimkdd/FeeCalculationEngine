@@ -1,0 +1,18 @@
+[
+  {
+    "Name": "Domestic",
+    "CreatedAt": "2025-11-17T00:00:00Z"
+  },
+  {
+    "Name": "International",
+    "CreatedAt": "2025-11-17T00:00:00Z"
+  },
+  {
+    "Name": "Withdrawal",
+    "CreatedAt": "2025-11-17T00:00:00Z"
+  },
+  {
+    "Name": "Deposit",
+    "CreatedAt": "2025-11-17T00:00:00Z"
+  }
+]

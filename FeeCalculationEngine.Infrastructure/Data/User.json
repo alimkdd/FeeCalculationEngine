@@ -1,0 +1,34 @@
+[
+  {
+    "Name": "Alice Johnson",
+    "Email":  "alice.johnson@mojo.com.lb",
+    "TierId": 2,
+    "IsHighVolume": false,
+    "IsFirstTime": true,
+    "CreatedAt": "2025-11-17T00:00:00Z"
+  },
+  {
+    "Name": "Bob Smith",
+    "Email": "bob.smith@mojo.com.lb",
+    "TierId": 2,
+    "IsHighVolume": true,
+    "IsFirstTime": false,
+    "CreatedAt": "2025-11-17T00:00:00Z"
+  },
+  {
+    "Name": "Charlie Davis",
+    "Email": "charlie.davis@mojo.com.lb",
+    "TierId": 1,
+    "IsHighVolume": false,
+    "IsFirstTime": false,
+    "CreatedAt": "2025-11-17T00:00:00Z"
+  },
+  {
+    "Name": "Diana Green",
+    "Email": "diana.green@mojo.com.lb",
+    "TierId": 2,
+    "IsHighVolume": true,
+    "IsFirstTime": true,
+    "CreatedAt": "2025-11-17T00:00:00Z"
+  }
+]

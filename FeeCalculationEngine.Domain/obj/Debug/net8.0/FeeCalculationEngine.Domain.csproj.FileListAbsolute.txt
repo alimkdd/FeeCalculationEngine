@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\FeeCalculationEngine\FeeCalculationEngine.Domain\bin\Debug\net8.0\FeeCalculationEngine.Domain.deps.json
+C:\Users\User\source\repos\FeeCalculationEngine\FeeCalculationEngine.Domain\bin\Debug\net8.0\FeeCalculationEngine.Domain.runtimeconfig.json
+C:\Users\User\source\repos\FeeCalculationEngine\FeeCalculationEngine.Domain\bin\Debug\net8.0\FeeCalculationEngine.Domain.dll
+C:\Users\User\source\repos\FeeCalculationEngine\FeeCalculationEngine.Domain\bin\Debug\net8.0\FeeCalculationEngine.Domain.pdb
+C:\Users\User\source\repos\FeeCalculationEngine\FeeCalculationEngine.Domain\obj\Debug\net8.0\FeeCalculationEngine.Domain.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\FeeCalculationEngine\FeeCalculationEngine.Domain\obj\Debug\net8.0\FeeCalculationEngine.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\FeeCalculationEngine\FeeCalculationEngine.Domain\obj\Debug\net8.0\FeeCalculationEngine.Domain.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\FeeCalculationEngine\FeeCalculationEngine.Domain\obj\Debug\net8.0\FeeCalculationEngine.Domain.AssemblyInfo.cs
+C:\Users\User\source\repos\FeeCalculationEngine\FeeCalculationEngine.Domain\obj\Debug\net8.0\FeeCalculationEngine.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\FeeCalculationEngine\FeeCalculationEngine.Domain\obj\Debug\net8.0\FeeCalculationEngine.Domain.sourcelink.json
+C:\Users\User\source\repos\FeeCalculationEngine\FeeCalculationEngine.Domain\obj\Debug\net8.0\FeeCalculationEngine.Domain.dll
+C:\Users\User\source\repos\FeeCalculationEngine\FeeCalculationEngine.Domain\obj\Debug\net8.0\refint\FeeCalculationEngine.Domain.dll
+C:\Users\User\source\repos\FeeCalculationEngine\FeeCalculationEngine.Domain\obj\Debug\net8.0\FeeCalculationEngine.Domain.pdb
+C:\Users\User\source\repos\FeeCalculationEngine\FeeCalculationEngine.Domain\obj\Debug\net8.0\FeeCalculationEngine.Domain.genruntimeconfig.cache
+C:\Users\User\source\repos\FeeCalculationEngine\FeeCalculationEngine.Domain\obj\Debug\net8.0\ref\FeeCalculationEngine.Domain.dll

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="FeeCalculationEngine.API/FeeCalculationEngine.API.csproj" />
+  <Project Path="FeeCalculationEngine.Application/FeeCalculationEngine.Application.csproj" />
+  <Project Path="FeeCalculationEngine.Domain/FeeCalculationEngine.Domain.csproj" />
+  <Project Path="FeeCalculationEngine.Infrastructure/FeeCalculationEngine.Infrastructure.csproj" />
+</Solution>
