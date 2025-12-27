@@ -1,5 +1,4 @@
  Smart Fee Calculation Engine
-Overview
 
 The Smart Fee Calculation Engine is a flexible, extensible, and highly testable backend system designed to calculate transaction fees based on complex business rules and transaction context.
 It supports multiple transaction types, layered fee modifiers, edge-case handling, and full auditability, making it suitable for financial and enterprise-grade systems.
